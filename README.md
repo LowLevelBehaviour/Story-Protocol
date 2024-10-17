@@ -1,3 +1,3 @@
 # Story-Protocol
 
-1. Complete Task on [bot.story.foundation](bot.story.foundation)
+1. Complete Task on [bot.story.foundation](https://bot.story.foundation/)
